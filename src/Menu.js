@@ -5,7 +5,7 @@ import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
 const Menu = () => {
   return (
     <View style={styles.menu}>
-      <Text style={styles.title}>hiiiii Something</Text>
+      <Text style={styles.title}>Draw Something</Text>
       <TouchableOpacity style={styles.playButton}>
         <Text style={styles.buttonText}>Play with Friends</Text>
       </TouchableOpacity>
